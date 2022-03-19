@@ -22,6 +22,7 @@ Tudo isso para cada usuário em específico (o `username` será passado pelo hea
 ## 🚀 Techs
 
 <ul>
+  <li>JavaScript</li>
   <li>Node.js - Express</li>
 </ul>
 
