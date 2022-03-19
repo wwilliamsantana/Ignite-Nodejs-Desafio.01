@@ -19,6 +19,12 @@ Essa será uma aplicação para gerenciar tarefas (em inglês *todos*). S
 
 Tudo isso para cada usuário em específico (o `username` será passado pelo header). 
 
+## 🚀 Techs
+
+<ul>
+  <li>Node.js - Express</li>
+</ul>
+
 ### Desafio Concluído ✔️
 
 
